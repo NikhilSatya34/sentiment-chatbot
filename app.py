@@ -1,8 +1,3 @@
-"""
-Day 6: Streamlit Web Interface
-Beautiful UI for the sentiment-aware chatbot
-"""
-
 import streamlit as st
 from chatbot import SentimentAwareChatbot
 import json
