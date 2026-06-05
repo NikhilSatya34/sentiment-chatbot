@@ -1,9 +1,3 @@
-"""
-Day 4-5: Sentiment-Aware Gemini Chatbot
-Integrates Gemini API with sentiment analysis
-Bot responds differently based on user's sentiment
-"""
-
 import google.generativeai as genai
 from sentiment_analysis import SentimentAnalyzer
 import os
