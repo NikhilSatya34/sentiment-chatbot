@@ -1,8 +1,3 @@
-"""
-Day 3: Sentiment Analysis Module
-Detects sentiment (Positive, Negative, Neutral) from user messages
-"""
-
 from textblob import TextBlob
 
 class SentimentAnalyzer:
